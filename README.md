@@ -16,7 +16,7 @@ Acredito muito que a Tecnologia unida com a Educação tem o poder de mudar o mu
 
 ### O que estou fazendo atualmente?
 
-- 😍 Atualmente estou atuando pela Foursys como Instrutor Android, também sou professor de Python e Kotlin na Trainning Education Services. Além de estar produzindo um curso sobre Android para a Mentorama.
+- 😍 Atualmente estou atuando pela Foursys como Instrutor Android, também sou professor de Python na Trainning Education Services. Além de estar produzindo um curso sobre Android para a Mentorama.
 - 📚 Estudando as melhores práticas de Testes e Penetration Tests no ambiente Android.
 - ✏️ Escritor nas horas vagas
 - 🎧 Programando e sempre ouvindo Rock'n Roll.
