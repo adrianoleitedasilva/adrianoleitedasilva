@@ -4,36 +4,25 @@
 
 Seja bem-vindo(a), 
 
-Me chamo Adriano Leite da Silva, nerd, barbudo, careca e tatuado. Tenho mais de 15 anos de experiência em Tecnologia da Informação, Telecomunicações e Educação. Tendo a oportunidade de passar por grandes instituições e aprender muito em todas.
+Profissional com mais de 15 anos de experiência nas áreas de Tecnologia da Informação, Telecomunicações, Educação e Gestão. Tendo a oportunidade de passar por grandes instituições, e com certeza aprendi muito em todas elas.
 
-Em Telecomunicações fui responsável por mais de 85 serviços diferentes. Dentre eles: SMS, MMS, Interatividade por SMS com a Plataforma VAS/SDP, Tarifação de Clientes, Caixa Postal, Internet Móvel e muitos outros serviços que a operadora disponibilizava.
+Quando o assunto é Tecnologia da Informação, já atuei no desenvolvimento de aplicações dos mais diversos tipos, tamanhos e tecnologias envolvidas. Utilizando desde HTML, CSS, JavaScript, PHP e Angular para o desenvolvimento de aplicações web. Até o desenvolvimento de aplicações Android com Java, XML e banco de dados. Além de utilizar muito o Git para fazer manter o controle das versões dos apps que desenvolvemos. 
 
-Quando o assunto é Educação, tive a honra de passar por instituições como: ETEC Camargo Aranha, ETEC Jorge Street, Senac SP, Trainning Education Services e Mentorama. Sendo responsável por ministrar aulas dos mais diversos temas como, por exemplo: Lógica de Programação, HTML, CSS, JavaScript, PHP, Bootstrap, Projetos, Desenvolvimento Mobile Android com Java/Kotlin, Python, Machine Learning, Data Science, Big Data, Análise de Dados, Desenvolvimento para Desktop com CSharp, Manutenção de Computadores, Redes, Design de Interfaces, Usabilidade, User Experience, Arquitetura de Informação, Interatividade, Empreendedorismo, Juventude e Adolescência, Direitos Humanos e Sustentabilidade.
+E quando o assunto é Telecomunicações, fui responsável por mais de 85 serviços diferentes. Dentre eles: SMS, MMS, Interatividade por SMS com a Plataforma VAS/SDP, Tarifação de Clientes, Caixa Postal, Internet Móvel e muitos outros serviços que a operadora disponibilizava aos clientes e demais operadoras. Efetuando a análise e primeiro combate nas falhas que impactavam os nossos serviços, visando sempre a melhoria contínua para os nossos clientes.
 
-E finalmente quando falamos de Tecnologia da Informação, já atuei com desenvolvimento de aplicações web utilizando HTML e CSS para a estruturação visual e o PHP para o back-end juntamente com JavaScript para os comportamentos e validações. Sou um completo apaixonado por desenvolvimento Android, aonde busco aprender coisas novas nas linguagens Java/Kotlin para a lógica do sistema e XML para fazer todo a criação visual das minhas aplicações. Usuário assíduo do Git para controlar as versões dos meus códigos, juntamente com o GitFlow para obter as melhores práticas. Amante das Metodologias Ágeis como SCRUM.
-
-Acredito muito que a Tecnologia unida com a Educação tem o poder de mudar o mundo, da mesma forma que mudou o meu mundo.
-
-### O que estou fazendo atualmente?
-
-- 😍 Atualmente estou atuando pela Foursys como Instrutor Android, também sou professor de Python na Trainning Education Services. Além de estar produzindo um curso sobre Android para a Mentorama.
-- 📚 Estudando as melhores práticas de Testes e Penetration Tests no ambiente Android.
-- ✏️ Escritor nas horas vagas
-- 🎧 Programando e sempre ouvindo Rock'n Roll.
-- 🎙️ Apaixonado por Podcasts como NerdCast, Flow PodCast, Vênus Podcast.
-- 🍴 Chef de Cozinha em Aprimoramento.
+E falando em Educação, tive a honra de passar por instituições como: ETEC Camargo Aranha, ETEC Jorge Street, Senac SP, Trainning Education Services, Mentorama e Ultima School. Sendo responsável por ministrar aulas dos mais diversos temas como, por exemplo: Lógica de Programação, HTML, CSS, JavaScript, PHP, Bootstrap, Projetos, Desenvolvimento Mobile Android com Java/Kotlin, Python, Machine Learning, Data Science, Big Data, Análise de Dados, Desenvolvimento para Desktop com CSharp, Manutenção de Computadores, Redes, Design de Interfaces, Usabilidade, User Experience, Arquitetura de Informação, Interatividade e Empreendedorismo. Acredito muito que a Tecnologia unida com a Educação tem o poder de mudar o mundo, da mesma forma que mudou o meu.
 
 *“Sua tarefa é descobrir o seu trabalho e, então, com todo o coração, dedicar-se a ele.” - Buda*
 
 ## Tecnologias, Ferramentas e Linguagens
 
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/intel/intel-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code> 
 <br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code> 
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code> 
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>  <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code> 
+<br /> 
+
 
 ## Meu Status no Github
 
