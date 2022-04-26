@@ -2,17 +2,17 @@
 
 [![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/adrianoleitedasilva/) [![Follow on Behance](https://img.shields.io/badge/--behance?label=Behance&logo=Behance&style=social)](https://www.behance.net/silvaadrianleite) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/_adrianosilva89) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/adrianoleitedasilva/) [![followersGit](https://img.shields.io/github/followers/adrianoleitedasilva?style=social)](https://github.com/adrianoleitedasilva) <img src="https://komarev.com/ghpvc/?username=adrianoleitedasilva&label=Profile%20views&color=0e75b6&style=social" alt="Adriano Leite da Silva" /> ![TechLeadMobile](https://img.shields.io/badge/TechLead-Mobile-orange)
 
-Seja bem-vindo(a), 
+Salve, salve Humanos!
 
-Profissional com mais de 15 anos de experiência nas áreas de Tecnologia da Informação, Telecomunicações, Educação e Gestão. Tendo a oportunidade de passar por grandes instituições, e com certeza aprendi muito em todas elas.
+Me chamo Adriano Leite da Silva, tenho 33 anos de idade, 11 tatuagens, 4 cachorros, nerd, careca e barbudo. Tenho mais de 15 anos de experiência nas áreas de Tecnologia da Informação, Telecomunicações, Educação e Gestão. Tendo a oportunidade de passar por grandes instituições, e com certeza aprendi muito em todas elas.
 
-Quando o assunto é Tecnologia da Informação, já atuei no desenvolvimento de aplicações dos mais diversos tipos, tamanhos e tecnologias envolvidas. Utilizando desde HTML, CSS, JavaScript, PHP e Angular para o desenvolvimento de aplicações web. Até o desenvolvimento de aplicações Android com Java, XML e banco de dados. Além de utilizar muito o Git para fazer manter o controle das versões dos apps que desenvolvemos. 
+Em Tecnologia da Informação, já atuei no desenvolvimento de aplicações dos mais diversos tipoes, tamanhos e tecnologias envolvidas. Utilizando tecnologias Web, Mobile e Core. Além de utilizar muito o Git para fazer manter o controle das versões dos apps que desenvolvemos. 
 
-E quando o assunto é Telecomunicações, fui responsável por mais de 85 serviços diferentes. Dentre eles: SMS, MMS, Interatividade por SMS com a Plataforma VAS/SDP, Tarifação de Clientes, Caixa Postal, Internet Móvel e muitos outros serviços que a operadora disponibilizava aos clientes e demais operadoras. Efetuando a análise e primeiro combate nas falhas que impactavam os nossos serviços, visando sempre a melhoria contínua para os nossos clientes.
+Em Telecom, fui responsável por mais de 85 serviços diferentes. Dentre eles: SMS, MMS, Interatividade por SMS com a Plataformas VAS/SDP, Tarifação de Clientes, Caixa Postal, Internet Móvel e muitos outros serviços que a operadora disponibilizava.
 
-E falando em Educação, tive a honra de passar por instituições como: ETEC Camargo Aranha, ETEC Jorge Street, Senac SP, Trainning Education Services, Mentorama e Ultima School. Sendo responsável por ministrar aulas dos mais diversos temas como, por exemplo: Lógica de Programação, HTML, CSS, JavaScript, PHP, Bootstrap, Projetos, Desenvolvimento Mobile Android com Java/Kotlin, Python, Machine Learning, Data Science, Big Data, Análise de Dados, Desenvolvimento para Desktop com CSharp, Manutenção de Computadores, Redes, Design de Interfaces, Usabilidade, User Experience, Arquitetura de Informação, Interatividade e Empreendedorismo. Acredito muito que a Tecnologia unida com a Educação tem o poder de mudar o mundo, da mesma forma que mudou o meu.
+Em Educação, tive a oportunidade de lecionar em instituições como: ETEC Camargo Aranha, ETEC Jorge Street, SENAC SP, Trainning Education Services, Mentorama, Ultima School e Fatec. Ministrando aulas dos mais diversos temas e níveis de conhecimento. Acredito muito que a Tecnologia unida com a Educação tem o poder de mudar o mundo, da mesma forma que mudou o meu.
 
-*“Sua tarefa é descobrir o seu trabalho e, então, com todo o coração, dedicar-se a ele.” - Buda*
+Em Gestão, tive a hora de liderar equipes pequenas(entre 4 e 10 pessoas) até grandes times(mais de 100 pessoas).
 
 ## Tecnologias, Ferramentas e Linguagens
 
