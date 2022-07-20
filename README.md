@@ -32,4 +32,3 @@ Acredito muito que a Tecnologia unida com a Educação tem o poder de mudar o mu
 
 ## Top Linguagens utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoleitedasilva&layout=compact)](https://github.com/adrianoleitedasilva)
-
