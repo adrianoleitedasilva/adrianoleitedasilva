@@ -4,7 +4,7 @@
 
 Salve, salve Humanos!
 
-Me chamo Adriano Leite da Silva, tenho 33 anos de idade, 11 tatuagens, 4 cachorros, nerd, careca e barbudo. Quase 16 anos de experiência nas áreas de Tecnologia da Informação, Telecomunicações, Educação e Gestão. Tendo a oportunidade de atuar em grandes instituições, e com certeza aprendi muito em todas.
+Me chamo Adriano Leite da Silva, tenho 33 anos, 11 tatuagens, 4 cachorros, nerd, careca, barbudo. Atualmente atuo como Head de Desenvolvimento de Dados na Green Tecnologia. Tenho mais de 16 anos de experiência nas áreas de Tecnologia da Informação, Telecomunicações, Educação e Gestão. Tive a oportunidade de atuar em grandes instituições, e com certeza aprendi muito em todas.
 
 Em **Tecnologia da Informação**, já atuei no desenvolvimento de aplicações dos mais diversos tipos, tamanhos e tecnologias envolvidas. Utilizando tecnologias Web, Mobile e Core.
 
@@ -23,8 +23,8 @@ Acredito muito que a Tecnologia unida com a Educação tem o poder de mudar o mu
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code> 
 <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>  <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code> 
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code> 
 <br /> 
-
 
 ## Meu Status no Github
 
