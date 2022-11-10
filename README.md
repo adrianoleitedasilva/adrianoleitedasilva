@@ -4,17 +4,16 @@
 
 Salve, salve Humanos!
 
-Me chamo Adriano Leite da Silva, tenho 33 anos, 11 tatuagens, 4 cachorros, nerd, careca, barbudo. Atualmente atuo como Head de Desenvolvimento de Dados na Green Tecnologia. Tenho mais de 16 anos de experiência nas áreas de Tecnologia da Informação, Telecomunicações, Educação e Gestão. Tive a oportunidade de atuar em grandes instituições, e com certeza aprendi muito em todas.
+Me chamo Adriano, tenho quase 16 anos de experiência nas áreas de Tecnologia da Informação, Telecomunicações, Gestão e Educação.
 
-Em **Tecnologia da Informação**, já atuei no desenvolvimento de aplicações dos mais diversos tipos, tamanhos e tecnologias envolvidas. Utilizando tecnologias Web, Mobile e Core.
+Em Tecnologia da Informação, atuei em todas as fases de desenvolvimento de aplicações dos mais diversos tipos, tamanhos e tecnologias envolvidas. Utilizando tecnologias Web, Mobile e Core.
 
-Já em **Telecomunicações**, fui responsável por mais de 85 serviços diferentes. Dentre eles: SMS, MMS, Interatividade por SMS com a plataforma VAS/SDP(Huawei), Tarifação de Clientes, Caixa Postal, Internet Móvel, Habilitação de Chips e muitos outros serviços que a operadora disponibilizava aos clientes.
+Já em Telecom, fiz parte do time de Plataformas, cuidando de mais de 85 serviços diferentes. Dentre eles, SMS, MMS, Interatividade por SMS com a plataforma SDP(Huawei), Tarifação de Clientes, Caixa Posta, Internet Móvel, Habilitação de Chips e muitos outros serviços.
 
-E quando o assunto é **Educação**, tive a oportunidade de lecionar em instituições como: ETEC Camargo Aranha, ETEC Jorge Street, SENAC SP, Trainning Education Services, Mentorama, Ultima School, Fatec Santana de Parnaíba e agora Green Tecnologia. Ministrando aulas dos mais diversos temas e níveis de conhecimento. 
+Falando de Educação, tive a oportunidade de lecionar os mais diversos temas em instituições como: ETEC Camargo Aranha, ETEC Jorge Street, Senac SP, Trainning Education Services, Mentorama, Ultima School, FATEC Santana de Parnaíba e Green Tecnologia. 
 
-Em **Gestão**, tive a hora de liderar equipes pequenas(entre 4 e 10 pessoas) até grandes times(mais de 100 pessoas). Fazendo a gestão de horas, atividades, atestados, organização do time, desenvolvimento individual dos colaboradores, relatório de desempenho. 
+E em Gestão já liderei times pequenos (4 a 6 pessoas) e times grandes (mais de 100 pessoas). Fazendo gestão de horas, atividades, feedback, organização do time, atestados e desenvolvimento do time.
 
-Acredito muito que a Tecnologia unida com a Educação tem o poder de mudar o mundo, da mesma forma que mudou o meu.
 
 ## Tecnologias, Ferramentas e Linguagens
 
