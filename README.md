@@ -1,19 +1,20 @@
 # Salve, salve Humanos...
 
-[![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/adrianoleitedasilva/) [![Follow on Behance](https://img.shields.io/badge/--behance?label=Behance&logo=Behance&style=social)](https://www.behance.net/silvaadrianleite) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/_adrianosilva89) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/adrianoleitedasilva/) [![followersGit](https://img.shields.io/github/followers/adrianoleitedasilva?style=social)](https://github.com/adrianoleitedasilva) <img src="https://komarev.com/ghpvc/?username=adrianoleitedasilva&label=Profile%20views&color=0e75b6&style=social" alt="Adriano Leite da Silva" /> ![Head de Tecnologia](https://img.shields.io/badge/Head-Tecnologia-orange)
+[![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/adrianoleitedasilva/) [![Follow on Behance](https://img.shields.io/badge/--behance?label=Behance&logo=Behance&style=social)](https://www.behance.net/silvaadrianleite) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/_adrianosilva89) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/adrianoleitedasilva/) [![followersGit](https://img.shields.io/github/followers/adrianoleitedasilva?style=social)](https://github.com/adrianoleitedasilva) <img src="https://komarev.com/ghpvc/?username=adrianoleitedasilva&label=Profile%20views&color=0e75b6&style=social" alt="Adriano Leite da Silva" /> ![Diretor de Tecnologia](https://img.shields.io/badge/Diretor_de-Tecnologia-orange)
 
 Salve, salve Humanos!
 
-Me chamo Adriano, tenho quase 16 anos de experiência nas áreas de Tecnologia da Informação, Telecomunicações, Gestão e Educação.
+Meu nome é Adriano, sou um profissional de 34 anos de idade, e mais de 16 anos de experiência nas áreas de Tecnologia da Informação, Telecomunicações, Educação e Gestão. Durante este tempo, trabalhei em diversas empresas.
 
-Em Tecnologia da Informação, atuei em todas as fases de desenvolvimento de aplicações dos mais diversos tipos, tamanhos e tecnologias envolvidas. Utilizando tecnologias Web, Mobile e Core.
+Em Tecnologia da Informação, desenvolvi habilidades em Suporte Técnico, Redes, Desenvolvimento e Cloud. Já trabalhei com várias linguagens de programação, mas minha atual atualmente minha preferida é Python. No momento, estou aproveitando para brincar com o desenvolvimento de aplicações e automações em Python, e também estou estudando React e Angular.
 
-Já em Telecom, fiz parte do time de Plataformas, cuidando de mais de 85 serviços diferentes. Dentre eles, SMS, MMS, Interatividade por SMS com a plataforma SDP(Huawei), Tarifação de Clientes, Caixa Posta, Internet Móvel, Habilitação de Chips e muitos outros serviços.
+Em Telecomunicações, tive a oportunidade de trabalhar com uma ampla variedade de serviços por quase 10 anos em uma operadora, incluindo Interatividade por SMS, MMS, Internet Móvel, Tarifação de Clientes, Caixa Postal e muito mais.
 
-Falando de Educação, tive a oportunidade de lecionar os mais diversos temas em instituições como: ETEC Camargo Aranha, ETEC Jorge Street, Senac SP, Trainning Education Services, Mentorama, Ultima School, FATEC Santana de Parnaíba e Green Tecnologia. 
+Educação é minha paixão e já tive a honra de trabalhar em instituições como a ETEC Camargo Aranha, ETEC Jorge Street, SENAC SP, Trainning Education Services, Green Tecnologia, Fatec SP, Mentorama e, atualmente, Unileya.
 
-E em Gestão já liderei times pequenos (4 a 6 pessoas) e times grandes (mais de 100 pessoas). Fazendo gestão de horas, atividades, feedback, organização do time, atestados e desenvolvimento do time.
+Por fim, a Gestão de Equipes tem sido uma área muito importante em minha vida. Já liderei equipes pequenas (6 pessoas) e grandes (mais de 100 pessoas) e acredito ter feito um trabalho impactante nas vidas dessas pessoas. Ainda tenho muito o que aprender, mas estou no caminho certo.
 
+Eu espero poder ser uma fonte de ajuda para você. Vamos juntos, conquistar o mundo!
 
 ## Tecnologias, Ferramentas e Linguagens
 
