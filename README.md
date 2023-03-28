@@ -23,8 +23,13 @@ Eu espero poder ser uma fonte de ajuda para você. Vamos juntos, conquistar o mu
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code> 
 <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>  <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code> 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code> 
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>   <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code> 
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <br /> 
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+
+
 
 ## Meu Status no Github
 
