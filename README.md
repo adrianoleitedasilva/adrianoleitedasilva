@@ -4,17 +4,13 @@
 
 Salve, salve Humanos!
 
-Meu nome é Adriano, sou um profissional de 34 anos de idade, e mais de 16 anos de experiência nas áreas de Tecnologia da Informação, Telecomunicações, Educação e Gestão. Durante este tempo, trabalhei em diversas empresas.
+Me chamo Adriano, um profissional com mais de 16 anos de experiência nas áreas de Tecnologia da Informação, Telecomunicações, Gestão e Educação. Ao longo da minha carreira, tive a oportunidade de trabalhar em empresas como: Telefônica Vivo, Senac, Fatec Santana de Parnaíba, Callflex, Foursys, Trainning Education e Green Tecnologia e algumas outras. 
 
-Em Tecnologia da Informação, desenvolvi habilidades em Suporte Técnico, Redes, Desenvolvimento e Cloud. Já trabalhei com várias linguagens de programação, mas minha atual atualmente minha preferida é Python. No momento, estou aproveitando para brincar com o desenvolvimento de aplicações e automações em Python, e também estou estudando React e Angular.
+Sou um completo apaixonado por tecnologia e desenvolvimento. Atualmente utilizando linguagens como Python para Criação de Automatizações, Análise de Dados e Inteligência Artificial. E TypeScript para a criação de aplicações, mas já brinquei muito com tecnologias Web, Mobile e até mesmo algumas coisas de Cloud. Tudo com o intuito de criar soluções inovadoras e eficientes para nossos clientes. Hoje estou focado em
 
-Em Telecomunicações, tive a oportunidade de trabalhar com uma ampla variedade de serviços por quase 10 anos em uma operadora, incluindo Interatividade por SMS, MMS, Internet Móvel, Tarifação de Clientes, Caixa Postal e muito mais.
+Com uma mentalidade voltada para a resolução de problemas, além de um compromisso incansável com a excelência, tenho o orgulho de ser reconhecido com um Líder Técnico experiente e confiável em minha área de atuação. Além de um Gestor com foco nas entregas, mas também na qualificação e bem-estar dos meus liderados. Tendo cuidado de times pequenos, entre 4 e 6 pessoas. Até times grandes, com mais de 100 pessoas. 
 
-Educação é minha paixão e já tive a honra de trabalhar em instituições como a ETEC Camargo Aranha, ETEC Jorge Street, SENAC SP, Trainning Education Services, Green Tecnologia, Fatec SP, Mentorama e, atualmente, Unileya.
-
-Por fim, a Gestão de Equipes tem sido uma área muito importante em minha vida. Já liderei equipes pequenas (6 pessoas) e grandes (mais de 100 pessoas) e acredito ter feito um trabalho impactante nas vidas dessas pessoas. Ainda tenho muito o que aprender, mas estou no caminho certo.
-
-Eu espero poder ser uma fonte de ajuda para você. Vamos juntos, conquistar o mundo!
+Sou um defensor da educação e do desenvolvimento profissional contínuo, e sempre procuro compartilhar meu conhecimento e experiência com outras pessoas, seja através de palestras, workshops ou mentorias. Se você está procurando um parceiro tecnológico confiável e inovador para o seu negócio, não hesite em entrar em contato comigo!
 
 ## Tecnologias, Ferramentas e Linguagens
 
