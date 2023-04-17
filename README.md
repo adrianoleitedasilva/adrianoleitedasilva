@@ -4,13 +4,15 @@
 
 Salve, salve Humanos!
 
-Me chamo Adriano, um profissional com mais de 16 anos de experiência nas áreas de Tecnologia da Informação, Telecomunicações, Gestão e Educação. Ao longo da minha carreira, tive a oportunidade de trabalhar em empresas como: Telefônica Vivo, Senac, Fatec Santana de Parnaíba, Callflex, Foursys, Trainning Education e Green Tecnologia e algumas outras. 
+Olá, meu nome é Adriano Leite da Silva e sou um profissional de Tecnologia da Informação,  Telecomunicações, Gestão e Educação com mais de 16 anos de experiência em gestão de equipes e soluções de TI. 
 
-Sou um completo apaixonado por tecnologia e desenvolvimento. Atualmente utilizando linguagens como Python para Criação de Automatizações, Análise de Dados e Inteligência Artificial. E TypeScript para a criação de aplicações, mas já brinquei muito com tecnologias Web, Mobile e até mesmo algumas coisas de Cloud. Tudo com o intuito de criar soluções inovadoras e eficientes para nossos clientes. Hoje estou focado em
+Durante minha carreira, atuei como Gestor de times pequenos(4 a 6 pessoas) e grandes(mais de 100 pessoas), liderando equipes multidisciplinares em projetos desafiadores. Minha experiência inclui o desenvolvimento de soluções em diversas linguagens, como Python, Desenvolvimento Android com Java, Desenvolvimento de aplicações web com Angular, PHP e MySQL. 
 
-Com uma mentalidade voltada para a resolução de problemas, além de um compromisso incansável com a excelência, tenho o orgulho de ser reconhecido com um Líder Técnico experiente e confiável em minha área de atuação. Além de um Gestor com foco nas entregas, mas também na qualificação e bem-estar dos meus liderados. Tendo cuidado de times pequenos, entre 4 e 6 pessoas. Até times grandes, com mais de 100 pessoas. 
+Além disso, sou apaixonado pela Educação e tenho vasta experiência como professor em cursos de programação, incluindo PHP, Python, DataScience e Data Visualization, Web, JavaScript e TypeScript.
 
-Sou um defensor da educação e do desenvolvimento profissional contínuo, e sempre procuro compartilhar meu conhecimento e experiência com outras pessoas, seja através de palestras, workshops ou mentorias. Se você está procurando um parceiro tecnológico confiável e inovador para o seu negócio, não hesite em entrar em contato comigo!
+Acredito que a educação é a chave para o desenvolvimento profissional e pessoal e, por isso, sempre busco compartilhar meu conhecimento com colegas e parceiros de negócios. Para mim, liderança é uma combinação de empatia, trabalho em equipe e estratégia, com foco em resultados e na satisfação do cliente. 
+
+Se você busca um gestor experiente, apaixonado por tecnologia e que valoriza o compartilhamento de conhecimentos, sinta-se à vontade para entrar em contato comigo. Estou sempre aberto a novos desafios e oportunidades de aprendizado.
 
 ## Tecnologias, Ferramentas e Linguagens
 
