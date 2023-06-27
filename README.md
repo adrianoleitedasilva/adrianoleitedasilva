@@ -4,15 +4,15 @@
 
 Salve, salve Humanos!
 
-Olá, meu nome é Adriano Leite da Silva e sou um profissional de Tecnologia da Informação,  Telecomunicações, Gestão e Educação com mais de 16 anos de experiência em gestão de equipes e soluções de TI. 
+Como profissional dedicado e experiente, tenho tido a oportunidade de trabalhar em diversos papéis desafiadores ao longo da minha carreira. Sou um educador comprometido e apaixonado, com experiência como professor, mentor e gestor de treinamentos. Como professor, tive a satisfação de ministrar aulas e formações em diversas áreas, como Desenvolvimento Android com Java, Python, Fullstack e outras tecnologias. Busco sempre transmitir meu conhecimento de forma clara e envolvente, incentivando os alunos a explorarem todo o seu potencial.
 
-Durante minha carreira, atuei como Gestor de times pequenos(4 a 6 pessoas) e grandes(mais de 100 pessoas), liderando equipes multidisciplinares em projetos desafiadores. Minha experiência inclui o desenvolvimento de soluções em diversas linguagens, como Python, Desenvolvimento Android com Java, Desenvolvimento de aplicações web com Angular, PHP e MySQL. 
+Além disso, atuei como mentor, auxiliando e orientando novos profissionais em sua jornada de aprendizado e crescimento. Tenho prazer em compartilhar minha experiência e conhecimento, contribuindo para o desenvolvimento e sucesso de outros profissionais.
 
-Além disso, sou apaixonado pela Educação e tenho vasta experiência como professor em cursos de programação, incluindo PHP, Python, DataScience e Data Visualization, Web, JavaScript e TypeScript.
+Na área de gestão, liderei equipes de desenvolvedores em projetos desafiadores. Fui responsável pela coordenação, planejamento e execução de atividades, assegurando a entrega de projetos de alta qualidade dentro dos prazos estabelecidos. Também desfrutei da oportunidade de participar da estruturação de processos, implementando metodologias eficientes para garantir a excelência operacional.
 
-Acredito que a educação é a chave para o desenvolvimento profissional e pessoal e, por isso, sempre busco compartilhar meu conhecimento com colegas e parceiros de negócios. Para mim, liderança é uma combinação de empatia, trabalho em equipe e estratégia, com foco em resultados e na satisfação do cliente. 
+Ao longo da minha carreira, trabalhei em projetos com clientes renomados, como Bradesco e Telefônica/Vivo, onde contribuí para o desenvolvimento de soluções inovadoras e de alto impacto, como o OpenFinance (OpenBanking). Tenho habilidades técnicas sólidas em diversas tecnologias, incluindo Java, Python, HTML, CSS, JavaScript, Angular, React, PHP, MySQL e outras. Minha paixão pela tecnologia me mantém atualizado sobre as últimas tendências e avanços da indústria.
 
-Se você busca um gestor experiente, apaixonado por tecnologia e que valoriza o compartilhamento de conhecimentos, sinta-se à vontade para entrar em contato comigo. Estou sempre aberto a novos desafios e oportunidades de aprendizado.
+Meu compromisso com o aprendizado contínuo e minha busca constante por desafios e oportunidades de crescimento têm sido os pilares da minha trajetória profissional. Sou uma pessoa proativa, colaborativa e orientada a resultados, sempre em busca de superar expectativas e agregar valor aos projetos e equipes com as quais trabalho
 
 ## Tecnologias, Ferramentas e Linguagens
 
