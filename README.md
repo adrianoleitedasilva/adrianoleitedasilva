@@ -35,3 +35,5 @@ Meu compromisso com o aprendizado contínuo e minha busca constante por desafios
 
 ## Top Linguagens utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoleitedasilva&layout=compact)](https://github.com/adrianoleitedasilva)
+
+![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
