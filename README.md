@@ -27,7 +27,7 @@ Meu compromisso com o aprendizado contínuo e minha busca constante por desafios
 <br /> 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 
-
+![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
 
 ## Meu Status no Github
 
@@ -35,5 +35,3 @@ Meu compromisso com o aprendizado contínuo e minha busca constante por desafios
 
 ## Top Linguagens utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoleitedasilva&layout=compact)](https://github.com/adrianoleitedasilva)
-
-![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
