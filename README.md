@@ -4,29 +4,17 @@
 
 Salve, salve Humanos!
 
-Como profissional dedicado e experiente, tenho tido a oportunidade de trabalhar em diversos papéis desafiadores ao longo da minha carreira. Sou um educador comprometido e apaixonado, com experiência como professor, mentor e gestor de treinamentos. Como professor, tive a satisfação de ministrar aulas e formações em diversas áreas, como Desenvolvimento Android com Java, Python, Fullstack e outras tecnologias. Busco sempre transmitir meu conhecimento de forma clara e envolvente, incentivando os alunos a explorarem todo o seu potencial.
+Profissional capacitado em Desenvolvimento e Tech Lead, com uma formação acadêmica sólida em Gestão em Tecnologia da Informação e um histórico de sucesso em diversas empresas. Foco em desenvolvimento de materiais didáticos inovadores, suporte personalizado aos alunos, participação ativa em projetos de software e realização de palestras e webinars. Habilidades excepcionais em instrução, facilitação de treinamentos e comunicação eficaz.
 
-Além disso, atuei como mentor, auxiliando e orientando novos profissionais em sua jornada de aprendizado e crescimento. Tenho prazer em compartilhar minha experiência e conhecimento, contribuindo para o desenvolvimento e sucesso de outros profissionais.
+Especialista em Angular e Python. Responsável pelo desenvolvimento de aplicações web avançadas, aplicando boas práticas de programação e promovendo a excelência em desenvolvimento de software. Gestão de contratos e implementação de estratégias de crescimento, bem como mentoria e desenvolvimento de talentos, garantindo um ambiente propício ao aprendizado e crescimento profissional.
 
-Na área de gestão, liderei equipes de desenvolvedores em projetos desafiadores. Fui responsável pela coordenação, planejamento e execução de atividades, assegurando a entrega de projetos de alta qualidade dentro dos prazos estabelecidos. Também desfrutei da oportunidade de participar da estruturação de processos, implementando metodologias eficientes para garantir a excelência operacional.
+Head de Desenvolvimento e Dados reforçando competência em gerenciamento de projetos, liderança de equipes e análise estratégica de dados. Contribuição significativa para o crescimento e eficiência operacional da empresa.
 
-Ao longo da minha carreira, trabalhei em projetos com clientes renomados, como Bradesco e Telefônica/Vivo, onde contribuí para o desenvolvimento de soluções inovadoras e de alto impacto, como o OpenFinance (OpenBanking). Tenho habilidades técnicas sólidas em diversas tecnologias, incluindo Java, Python, HTML, CSS, JavaScript, Angular, React, PHP, MySQL e outras. Minha paixão pela tecnologia me mantém atualizado sobre as últimas tendências e avanços da indústria.
+Certificações complementares em Desenvolvimento de Extensões para VisualStudioCode, Design de Interfaces, AWS Cloud Practitioner, entre outras, evidenciando compromisso com a aprendizagem contínua e atualização profissional.
 
-Meu compromisso com o aprendizado contínuo e minha busca constante por desafios e oportunidades de crescimento têm sido os pilares da minha trajetória profissional. Sou uma pessoa proativa, colaborativa e orientada a resultados, sempre em busca de superar expectativas e agregar valor aos projetos e equipes com as quais trabalho
+Constante aprimoramento de técnicas sólidas, comprometimento com a excelência e inovação em todas as áreas do desenvolvimento e liderança tecnológica.
 
-## Tecnologias, Ferramentas e Linguagens
-
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code><br />
-
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code> <br />
-
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code> <br />
-
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code> 
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code> <br />
-
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code> 
+Desenvolvimento | Tech Lead | Professor | Especialista | CEO | Mentor | Head | Fullstack | Python | Angular | Liderança | Gestão de Projetos | Análise Estratégica | Tecnologia | Inovação | PHP | Laravel | React | Telecomunicações | Estabilidade Operacional | Colaboração Efetiva | Certificações | Aprendizagem Contínua | Atualização Profissional | Web Avançada | Boas Práticas de Programação | Liderança Estratégica | Estratégias de Crescimento | Mentoria | Desenvolvimento de Talentos | Material Didático | Facilitação | Laboratórios Práticos | Avaliação Personalizada | Soluções Educacionais | NOC | Estabilidade de Plataformas | Treinamento | Certificações Complementares | VisualStudioCode | Design de Interfaces | AWS Cloud Practitioner | Comprometimento | Excelência | Multifacetado | Inovação | Habilidades Técnicas Sólidas.
 
 ![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
 
