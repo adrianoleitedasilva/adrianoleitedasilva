@@ -2,9 +2,11 @@
 
 [![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/adrianoleitedasilva/) [![Follow on Behance](https://img.shields.io/badge/--behance?label=Behance&logo=Behance&style=social)](https://www.behance.net/silvaadrianleite) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/_adrianosilva89) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/adrianoleitedasilva/) [![followersGit](https://img.shields.io/github/followers/adrianoleitedasilva?style=social)](https://github.com/adrianoleitedasilva) <img src="https://komarev.com/ghpvc/?username=adrianoleitedasilva&label=Profile%20views&color=0e75b6&style=social" alt="Adriano Leite da Silva" />
 
-Salve, salve Humanos!
+Olá! Meu nome é Adriano Leite da Silva, tenho 35 anos de idade e trago consigo uma rica experiência de 18 anos na área de tecnologia da informação e 16 anos na área educacional.
 
-Me chamo Adriano, tenho 35 anos de idade, sendo 18 anos dedicados as áreas de Tecnologia da Informação e Educação.
+Sou um profissional capacitado em Desenvolvimento e Tech Lead, com uma sólida formação acadêmica em Gestão em Tecnologia da Informação. Minha trajetória é marcada por sucessos em diversas empresas, onde destaco meu foco em desenvolvimento de materiais didáticos inovadores, suporte personalizado aos alunos e participação ativa em projetos de software, além de ministrar palestras e webinars. Especializei-me em Angular e Python, sendo responsável pelo desenvolvimento de aplicações web avançadas, sempre aplicando as melhores práticas de programação. Além disso, tenho experiência em gestão de contratos, implementação de estratégias de crescimento e mentoria para o desenvolvimento de talentos.
+
+Complementando meu perfil, possuo certificações em Desenvolvimento de Extensões para VisualStudioCode, Design de Interfaces, AWS Cloud Practitioner, entre outras, evidenciando meu compromisso com a aprendizagem contínua e atualização profissional. Estou constantemente buscando o aprimoramento de técnicas sólidas, comprometido com a excelência e a inovação em todas as áreas do desenvolvimento e liderança tecnológica.
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
