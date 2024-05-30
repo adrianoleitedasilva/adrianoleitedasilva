@@ -6,8 +6,6 @@ Salve, salve Humanos!
 
 Me chamo Adriano, tenho 35 anos de idade, sendo 18 anos dedicados as áreas de Tecnologia da Informação e Educação.
 
-Atualmente atuando como Desenvolvedor Fullstack na Zup Innovation.
-
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
