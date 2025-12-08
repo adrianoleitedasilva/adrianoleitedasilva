@@ -95,7 +95,7 @@ Busco oportunidades para contribuir em ambientes que valorizam construção de t
 
 ### IA
 
-![ChatGPT](https://img.shields.io/badge/Chat_GPT-FFF?style=for-the-badge&logo=OpenAI&logoColor=black)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Suno](https://img.shields.io/badge/Suno-orange?style=for-the-badge&logo=suno&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor&logoColor=white)
 
