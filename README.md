@@ -100,7 +100,3 @@ Busco oportunidades para contribuir em ambientes que valorizam construção de t
 ![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor&logoColor=white)
 
 ![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoleitedasilva&layout=compact)](https://github.com/adrianoleitedasilva)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianoleitedasilva&show_icons=true&locale=en" alt="Adriano Leite da Silva" />
