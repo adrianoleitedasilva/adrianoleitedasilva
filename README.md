@@ -1,6 +1,7 @@
 # Salve, salve Humanos...
 
-[![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/adrianoleitedasilva/) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/adrianoleitedasilva/) [![followersGit](https://img.shields.io/github/followers/adrianoleitedasilva?style=social)](https://github.com/adrianoleitedasilva) <img src="https://komarev.com/ghpvc/?username=adrianoleitedasilva&label=Profile%20views&color=0e75b6&style=social" alt="Adriano Leite da Silva" />
+[![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/adrianoleitedasilva/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=inkedin&logoColor=white&style=social)](https://www.linkedin.com/in/adrianoleitedasilva/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&style=social)](https://open.spotify.com/user/22pksaiitqccqon3ffcp2ogry) [![followersGit](https://img.shields.io/github/followers/adrianoleitedasilva?style=social)](https://github.com/adrianoleitedasilva) <img src="https://komarev.com/ghpvc/?username=adrianoleitedasilva&label=Profile%20views&color=0e75b6&style=social" alt="Adriano Leite da Silva" />
 
 Sou um profissional com sólida experiência em Gestão de Desenvolvimento, Liderança Técnica e Estratégia de TI, atuando tanto na coordenação de times multidisciplinares quanto no desenho e evolução de soluções escaláveis. Já liderei equipes de Desenvolvimento, DevOps, QA e Dados, garantindo alinhamento estratégico, entregas consistentes e estabilidade operacional em ambientes críticos.
 
@@ -27,11 +28,17 @@ Busco oportunidades para contribuir em ambientes que valorizam construção de t
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+
+### Version Control
+
+![GitHub](https://img.shields.io/badge/github-%23ffffff.svg?style=for-the-badge&logo=github&logoColor=black)
+![GitLab](https://img.shields.io/badge/gitlab-FF6C37.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Gerenciadores de Pacote
 
@@ -82,7 +89,21 @@ Busco oportunidades para contribuir em ambientes que valorizam construção de t
 ### System
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Office
+
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ### Notes
 
