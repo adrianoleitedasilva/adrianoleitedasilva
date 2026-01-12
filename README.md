@@ -3,26 +3,33 @@
 [![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/adrianoleitedasilva/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=inkedin&logoColor=white&style=social)](https://www.linkedin.com/in/adrianoleitedasilva/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&style=social)](https://open.spotify.com/user/22pksaiitqccqon3ffcp2ogry) [![followersGit](https://img.shields.io/github/followers/adrianoleitedasilva?style=social)](https://github.com/adrianoleitedasilva) <img src="https://komarev.com/ghpvc/?username=adrianoleitedasilva&label=Profile%20views&color=0e75b6&style=social" alt="Adriano Leite da Silva" />
 
-Sou um profissional com sólida experiência em Gestão de Desenvolvimento, Liderança Técnica e Estratégia de TI, atuando tanto na coordenação de times multidisciplinares quanto no desenho e evolução de soluções escaláveis. Já liderei equipes de Desenvolvimento, DevOps, QA e Dados, garantindo alinhamento estratégico, entregas consistentes e estabilidade operacional em ambientes críticos.
+Sou professor e consultor em tecnologia, com atuação em educação, gestão e desenvolvimento de sistemas.
+Aqui você vai encontrar projetos e estudos focados em **Python**, **APIs**, **Arquitetura de Software**, **IA aplicada** e **produtos digitais**.
 
-Atuo fortemente na revisão de arquiteturas, definição de padrões técnicos, implementação de processos ágeis e integração entre squads, gerando eficiência, previsibilidade e ganho de produtividade. Tenho experiência prática com Python, C#, Angular, React, AWS, Azure, pipelines de CI/CD, qualidade de software e engenharia de dados.
+🚀 Eu gosto de aprender construindo — e de ensinar o que funciona na prática.
 
-Minha abordagem de liderança é centrada em desenvolvimento de talentos, mentoria, cultura de boas práticas, autonomia e colaboração. Participo ativamente do planejamento estratégico de TI, propondo melhorias contínuas e iniciativas de inovação que fortalecem produtos e operações.
+### 🔥 Áreas de foco
+- Python (do básico ao avançado)
+- APIs REST com Flask/FastAPI
+- Engenharia e Arquitetura de Software
+- IA aplicada e Prompt Engineering
+- Cloud (AWS/Azure) e boas práticas
+- Educação e gestão em tecnologia
 
-Ao longo da carreira, também atuei como professor, instrutor e mentor de tecnologia, o que ampliou minha capacidade de comunicar ideias complexas de forma clara, facilitar treinamentos e gerar evolução técnica nas equipes.
-
-Busco oportunidades para contribuir em ambientes que valorizam construção de times fortes, maturidade técnica, visão de longo prazo e entrega de soluções escaláveis e sustentáveis.
+### 📌 Projetos e iniciativas
+- Extensões para VS Code
+- Sistemas web completos (frontend + backend)
+- CRM nichado para clínicas
+- Projetos educacionais e trilhas de estudo
 
 ### Ferramentas
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -30,15 +37,12 @@ Busco oportunidades para contribuir em ambientes que valorizam construção de t
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 
 ### Version Control
 
 ![GitHub](https://img.shields.io/badge/github-%23ffffff.svg?style=for-the-badge&logo=github&logoColor=black)
 ![GitLab](https://img.shields.io/badge/gitlab-FF6C37.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Gerenciadores de Pacote
 
@@ -61,7 +65,6 @@ Busco oportunidades para contribuir em ambientes que valorizam construção de t
 
 ### Linguagens & Frameworks
 
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -108,7 +111,6 @@ Busco oportunidades para contribuir em ambientes que valorizam construção de t
 ### Notes
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ### Música
 
