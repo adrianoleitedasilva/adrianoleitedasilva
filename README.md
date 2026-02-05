@@ -3,24 +3,10 @@
 [![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/adrianoleitedasilva/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=inkedin&logoColor=white&style=social)](https://www.linkedin.com/in/adrianoleitedasilva/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&style=social)](https://open.spotify.com/user/22pksaiitqccqon3ffcp2ogry) [![followersGit](https://img.shields.io/github/followers/adrianoleitedasilva?style=social)](https://github.com/adrianoleitedasilva) <img src="https://komarev.com/ghpvc/?username=adrianoleitedasilva&label=Profile%20views&color=0e75b6&style=social" alt="Adriano Leite da Silva" />
 
-Sou professor e consultor em tecnologia, com atuação em educação, gestão e desenvolvimento de sistemas.
+Sou Professor e Gestor em tecnologia, com atuação em educação, gestão e desenvolvimento de sistemas.
 Aqui você vai encontrar projetos e estudos focados em **Python**, **APIs**, **Arquitetura de Software**, **IA aplicada** e **produtos digitais**.
 
 🚀 Eu gosto de aprender construindo — e de ensinar o que funciona na prática.
-
-### 🔥 Áreas de foco
-- Python (do básico ao avançado)
-- APIs REST com Flask/FastAPI
-- Engenharia e Arquitetura de Software
-- IA aplicada e Prompt Engineering
-- Cloud (AWS/Azure) e boas práticas
-- Educação e gestão em tecnologia
-
-### 📌 Projetos e iniciativas
-- Extensões para VS Code
-- Sistemas web completos (frontend + backend)
-- CRM nichado para clínicas
-- Projetos educacionais e trilhas de estudo
 
 ### Ferramentas
 
@@ -84,7 +70,6 @@ Aqui você vai encontrar projetos e estudos focados em **Python**, **APIs**, **A
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
