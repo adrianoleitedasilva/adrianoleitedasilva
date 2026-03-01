@@ -2,7 +2,7 @@
 
 [![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/adrianoleitedasilva/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=inkedin&logoColor=white&style=social)](https://www.linkedin.com/in/adrianoleitedasilva/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&style=social)](https://open.spotify.com/user/22pksaiitqccqon3ffcp2ogry) [![followersGit](https://img.shields.io/github/followers/adrianoleitedasilva?style=social)](https://github.com/adrianoleitedasilva) <img src="https://komarev.com/ghpvc/?username=adrianoleitedasilva&label=Profile%20views&color=0e75b6&style=social" alt="Adriano Leite da Silva" />
 
-Sou Professor e Gestor em tecnologia, com atuação em educação, gestão e desenvolvimento de sistemas.
+Sou Professor e Gestor em Tecnologia, com atuação em educação, gestão e desenvolvimento de sistemas.
 Aqui você vai encontrar projetos e estudos focados em **Python**, **APIs**, **Arquitetura de Software**, **IA aplicada** e **produtos digitais**.
 
 🚀 Eu gosto de aprender construindo — e de ensinar o que funciona na prática.
