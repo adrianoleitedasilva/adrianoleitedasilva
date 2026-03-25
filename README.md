@@ -12,3 +12,5 @@ Aqui você vai encontrar projetos e estudos focados em **Python**, **APIs**, **A
 ![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
 
 ![AdrianoLeiteDaSilva](https://github-readme-stats.vercel.app/api?username=adrianoleitedasilva&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoleitedasilva&layout=compact)](https://github.com/adrianoleitedasilva)
