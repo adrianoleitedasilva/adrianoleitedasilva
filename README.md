@@ -104,6 +104,9 @@ Aqui você encontrará projetos e estudos com foco em:
 
 <div align="center">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianoleitedasilva&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoleitedasilva&layout=compact&theme=tokyonight&hide_border=true)
 
