@@ -102,20 +102,12 @@ Aqui você encontrará projetos e estudos com foco em:
 
 ## Cursos e Certificações
 
-<div align="center">
+<div align="left">
   <a href="https://drive.google.com/drive/folders/132iCGt1HNjToOlvQwS_t9zTkpyBfLaqg?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Cursos_e_Certificados%20ALL-007EC6?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=555555" alt="View All Certifications" /></a>
 </div>
 
 ## Meus Status
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adrianoleitedasilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/adrianoleitedasilva/adrianoleitedasilva/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/adrianoleitedasilva/adrianoleitedasilva/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/adrianoleitedasilva/adrianoleitedasilva/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 
 
