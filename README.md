@@ -104,4 +104,7 @@ Aqui você encontrará projetos e estudos com foco em:
     <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoleitedasilva&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
 </a>
 
+<div align="center">
+  <a href="https://drive.google.com/drive/folders/132iCGt1HNjToOlvQwS_t9zTkpyBfLaqg?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Cursos_e_Certificados%20ALL-007EC6?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=555555" alt="View All Certifications" /></a>
+</div>
 
