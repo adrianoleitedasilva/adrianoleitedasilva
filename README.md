@@ -1,43 +1,78 @@
-# Salve, salve Humanos!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adriano%20Leite%20da%20Silva&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Professor%20·%20Dev%20·%20Gestor%20de%20Tecnologia&descAlignY=55&descSize=18" width="100%"/>
+</div>
+
+<div align="center">
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/adrianoleitedasilva/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianoleitedasilva/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianoleitedasilva)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22pksaiitqccqon3ffcp2ogry)
-<img src="https://komarev.com/ghpvc/?username=adrianoleitedasilva&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Adriano Leite da Silva" />
+<img src="https://komarev.com/ghpvc/?username=adrianoleitedasilva&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 ---
 
 Sou **Professor e Gestor em Tecnologia** com foco na interseção entre educação, gestão e desenvolvimento de software. Construo projetos reais — de APIs e aplicações web a ferramentas de IA e apps mobile — e transformo esse processo em aprendizado acessível para quem está entrando na área.
 
-Aqui você encontrará projetos e estudos com foco em:
-
-- **Frontend** — Angular, React, TypeScript
-- **Backend** — Node.js, Python, FastAPI, Express
-- **Data Science & IA** — Pandas, scikit-learn, engenharia de prompts
-- **Mobile** — Android com Kotlin e Jetpack Compose
-- **Educação** — cursos, materiais e projetos didáticos
-
-> Acredito no aprendizado baseado na prática: construir, testar, errar e evoluir. É assim que desenvolvo minhas habilidades — e é assim que ensino.
+> _Acredito no aprendizado baseado na prática: construir, testar, errar e evoluir._
 
 ---
 
-## Projetos em Destaque
+## Projetos
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [trello-clone](https://github.com/adrianoleitedasilva/trello-clone) | Gerenciador de tarefas com workspaces, boards e drag-and-drop | TypeScript, Angular |
-| [VaultKey](https://github.com/adrianoleitedasilva/VaultKey) | Gerenciador de senhas com extensão Chrome e backend Node.js | JavaScript, Node.js |
-| [pokedex-android](https://github.com/adrianoleitedasilva/pokedex-android) | App Android consumindo a PokeAPI com Jetpack Compose | Kotlin |
-| [ColorForge](https://github.com/adrianoleitedasilva/ColorForge) | Gerador de paletas de cores com React e Vite | JavaScript, React |
-| [user-api](https://github.com/adrianoleitedasilva/user-api) | API REST de gerenciamento de usuários com Prisma ORM | Node.js, Express, Prisma |
-| [EngenhariaDePrompts](https://github.com/adrianoleitedasilva/EngenhariaDePrompts) | Guia prático de engenharia de prompts para IA | Markdown |
-| [gandalf-theme-pack](https://github.com/adrianoleitedasilva/gandalf-theme-pack) | Pack de temas para VS Code inspirado no universo Tolkien | VS Code Extension |
-| [AnaliseDeDados](https://github.com/adrianoleitedasilva/AnaliseDeDados) | Projetos de análise de dados com Python | Jupyter, Pandas, NumPy |
+### Web & Frontend
+
+| Projeto                                                                        | Descrição                                                        | Stack                     |
+| ------------------------------------------------------------------------------ | ---------------------------------------------------------------- | ------------------------- |
+| [Portugol IDE](https://github.com/adrianoleitedasilva/Portugol_IDE)            | IDE web completa para escrever e executar algoritmos em Portugol | TypeScript · React · Vite |
+| [PostCanva](https://github.com/adrianoleitedasilva/PostCanva)                  | Criador de posts para Instagram com carrosséis e stories         | TypeScript · React        |
+| [VetFlow](https://github.com/adrianoleitedasilva/VetFlow)                      | SaaS de gestão para clínicas veterinárias                        | TypeScript                |
+| [Trello Clone](https://github.com/adrianoleitedasilva/trello-clone)            | Gerenciador de tarefas com workspaces, boards e drag-and-drop    | TypeScript · Angular      |
+| [ColorForge](https://github.com/adrianoleitedasilva/ColorForge)                | Gerador de paletas de cores                                      | JavaScript · React · Vite |
+| [Spotify Premium Clone](https://github.com/adrianoleitedasilva/SpotifyPremium) | Clone da landing page do Spotify Premium                         | HTML · CSS · JavaScript   |
+| [Lista de Tarefas](https://github.com/adrianoleitedasilva/lista-tarefas)       | Gerenciador de tarefas com Angular                               | TypeScript · Angular      |
+| [TypeScript Starter](https://github.com/adrianoleitedasilva/TypescriptStarter) | Fundamentos de TypeScript com exemplos práticos                  | TypeScript                |
+| [Buttons](https://github.com/adrianoleitedasilva/Buttons)                      | Coleção de componentes de botão                                  | HTML · CSS                |
+
+### Backend & APIs
+
+| Projeto                                                                               | Descrição                                            | Stack                      |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------- | -------------------------- |
+| [ControleFinanceiroAPI](https://github.com/adrianoleitedasilva/ControleFinanceiroAPI) | API REST para gerenciamento de finanças pessoais     | C# · .NET 8                |
+| [VaultKey](https://github.com/adrianoleitedasilva/VaultKey)                           | Gerenciador de senhas com extensão Chrome e backend  | JavaScript · Node.js       |
+| [User API](https://github.com/adrianoleitedasilva/user-api)                           | API REST de gerenciamento de usuários com Prisma ORM | Node.js · Express · Prisma |
+
+### Mobile
+
+| Projeto                                                                   | Descrição                                               | Stack                     |
+| ------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------- |
+| [AuthApp](https://github.com/adrianoleitedasilva/AuthApp)                 | Interface de autenticação com telas de Cadastro e Login | TypeScript · React Native |
+| [Pokédex Android](https://github.com/adrianoleitedasilva/pokedex-android) | App Android consumindo a PokeAPI com Jetpack Compose    | Kotlin                    |
+
+### Data Science & IA
+
+| Projeto                                                                                           | Descrição                                                         | Stack                              |
+| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------- |
+| [DataVisualization com Python](https://github.com/adrianoleitedasilva/DataVisualizationComPython) | Visualização de dados com gráficos interativos e dashboards       | Python · Pandas · Plotly · Seaborn |
+| [AnaliseDeDados](https://github.com/adrianoleitedasilva/AnaliseDeDados)                           | Projetos de análise de dados com Python                           | Jupyter · Pandas · NumPy           |
+| [RPA GDrive](https://github.com/adrianoleitedasilva/RPA_GDrive)                                   | Automação RPA: monitora pasta local e sincroniza com Google Drive | Python · RPA                       |
+| [Engenharia De Prompts](https://github.com/adrianoleitedasilva/EngenhariaDePrompts)               | Guia prático de engenharia de prompts para IA                     | Markdown                           |
+
+### Ferramentas & Extensões
+
+| Projeto                                                                       | Descrição                                                  | Stack                 |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------- |
+| [Gandalf Theme Pack](https://github.com/adrianoleitedasilva/gandalfThemePack) | Pack de temas para VS Code inspirado no universo Tolkien   | VS Code Extension     |
+| [Portugol VS Code](https://github.com/adrianoleitedasilva/portugol-vscode)    | Extensão VS Code com suporte completo à linguagem Portugol | TypeScript · VS Code  |
+| [FakeDataGenerator](https://github.com/adrianoleitedasilva/FakeDataGenerator) | Gera dados falsos e realistas para popular bancos de dados | JavaScript · Faker.js |
+| [KeyBoardTester](https://github.com/adrianoleitedasilva/KeyBoardTester)       | Ferramenta web para testar todas as teclas do teclado      | HTML                  |
+| [MongoDB Estudo](https://github.com/adrianoleitedasilva/MongoDB-Estudo)       | Repositório de estudos sobre MongoDB                       | MongoDB               |
 
 ---
 
-## Meus Conhecimentos
+## Stack
 
 #### Linguagens
 
@@ -45,8 +80,8 @@ Aqui você encontrará projetos e estudos com foco em:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -56,6 +91,7 @@ Aqui você encontrará projetos e estudos com foco em:
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -68,6 +104,7 @@ Aqui você encontrará projetos e estudos com foco em:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 #### Banco de Dados
 
@@ -100,15 +137,22 @@ Aqui você encontrará projetos e estudos com foco em:
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
-## Cursos e Certificações
+---
+
+## Certificações
 
 <div align="left">
-  <a href="https://drive.google.com/drive/folders/132iCGt1HNjToOlvQwS_t9zTkpyBfLaqg?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Cursos_e_Certificados%20ALL-007EC6?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=555555" alt="View All Certifications" /></a>
+  <a href="https://drive.google.com/drive/folders/132iCGt1HNjToOlvQwS_t9zTkpyBfLaqg?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Certificados-007EC6?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=555555" alt="Ver Certificações"/>
+  </a>
 </div>
 
-## Meus Status
+---
+
+## Stats
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adrianoleitedasilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
 
-
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
