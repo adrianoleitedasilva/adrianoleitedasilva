@@ -138,17 +138,6 @@ Sou **Professor e Gestor em Tecnologia** com foco na interseção entre educaç�
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ---
-
-## Certificações
-
-<div align="left">
-  <a href="https://drive.google.com/drive/folders/132iCGt1HNjToOlvQwS_t9zTkpyBfLaqg?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Certificados-007EC6?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=555555" alt="Ver Certificações"/>
-  </a>
-</div>
-
----
-
 ## Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adrianoleitedasilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
