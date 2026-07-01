@@ -29,12 +29,26 @@ Sou **Professor e Gestor em Tecnologia** com foco na interseção entre educaç�
 | [Portugol IDE](https://github.com/adrianoleitedasilva/Portugol_IDE)            | IDE web completa para escrever e executar algoritmos em Portugol | TypeScript · React · Vite |
 | [PostCanva](https://github.com/adrianoleitedasilva/PostCanva)                  | Criador de posts para Instagram com carrosséis e stories         | TypeScript · React        |
 | [VetFlow](https://github.com/adrianoleitedasilva/VetFlow)                      | SaaS de gestão para clínicas veterinárias                        | TypeScript                |
-| [Trello Clone](https://github.com/adrianoleitedasilva/trello-clone)            | Gerenciador de tarefas com workspaces, boards e drag-and-drop    | TypeScript · Angular      |
+| [Trello Clone](https://github.com/adrianoleitedasilva/TrelloClone)            | Gerenciador de tarefas com workspaces, boards e drag-and-drop    | TypeScript · Angular      |
 | [ColorForge](https://github.com/adrianoleitedasilva/ColorForge)                | Gerador de paletas de cores                                      | JavaScript · React · Vite |
 | [Spotify Premium Clone](https://github.com/adrianoleitedasilva/SpotifyPremium) | Clone da landing page do Spotify Premium                         | HTML · CSS · JavaScript   |
 | [Lista de Tarefas](https://github.com/adrianoleitedasilva/lista-tarefas)       | Gerenciador de tarefas com Angular                               | TypeScript · Angular      |
 | [TypeScript Starter](https://github.com/adrianoleitedasilva/TypescriptStarter) | Fundamentos de TypeScript com exemplos práticos                  | TypeScript                |
 | [Buttons](https://github.com/adrianoleitedasilva/Buttons)                      | Coleção de componentes de botão                                  | HTML · CSS                |
+| [Pokedex](https://github.com/adrianoleitedasilva/Pokedex)                         | Consome a PokéAPI com listagem paginada, busca e filtro por tipo | Angular 17                |
+| [AngularPortfolio](https://github.com/adrianoleitedasilva/AngularPortfolio)       | Site de portfólio com tema escuro e lazy loading de componentes  | Angular                   |
+| [Chronos Pomodoro](https://github.com/adrianoleitedasilva/ChronosPomodoro)        | Gerenciador de tempo com a Técnica Pomodoro                      | TypeScript                |
+| [Migué Web](https://github.com/adrianoleitedasilva/MigueWeb)                      | Gerador de desculpas aleatórias e criativas                      | TypeScript                |
+| [Spotify UI Clone](https://github.com/adrianoleitedasilva/SpotifyUIClone)         | Interface do Spotify feita com Bootstrap                         | HTML · CSS · Bootstrap    |
+| [ASTech](https://github.com/adrianoleitedasilva/ASTech)                           | Site institucional bilíngue (PT/EN) para consultoria em TI       | HTML · CSS                |
+| [Landing Page Dev IA](https://github.com/adrianoleitedasilva/landingpage_devIA)   | Landing page com estética de terminal sobre IA aplicada ao dev   | CSS                       |
+| [Padrão de Commits](https://github.com/adrianoleitedasilva/PadraoDeCommits)       | Landing page apresentando uma convenção de commits               | HTML                      |
+| [QR Generator](https://github.com/adrianoleitedasilva/QRGenerator)                | Geração de QR Codes local, sem servidor                          | CSS · JavaScript          |
+| [Password.Gen](https://github.com/adrianoleitedasilva/Password.Gen)               | Gerador de senhas seguras rodando no navegador                   | CSS · JavaScript          |
+| [To Do App](https://github.com/adrianoleitedasilva/ToDoApp)                       | Lista de tarefas simples                                         | HTML · CSS · JavaScript   |
+| [Jogo da Velha](https://github.com/adrianoleitedasilva/JogoDaVelha)               | Jogo da Velha em JavaScript puro, sem frameworks                 | HTML · CSS · JavaScript   |
+| [Forca](https://github.com/adrianoleitedasilva/Forca)                             | Jogo da Forca com histórico de partidas                          | JavaScript                |
+| [20 Projetos JS Vanilla](https://github.com/adrianoleitedasilva/20ProjectsJSVanilla) | Coleção de 20 projetos em JavaScript puro                     | JavaScript                |
 
 ### Backend & APIs
 
@@ -42,14 +56,18 @@ Sou **Professor e Gestor em Tecnologia** com foco na interseção entre educaç�
 | ------------------------------------------------------------------------------------- | ---------------------------------------------------- | -------------------------- |
 | [ControleFinanceiroAPI](https://github.com/adrianoleitedasilva/ControleFinanceiroAPI) | API REST para gerenciamento de finanças pessoais     | C# · .NET 8                |
 | [VaultKey](https://github.com/adrianoleitedasilva/VaultKey)                           | Gerenciador de senhas com extensão Chrome e backend  | JavaScript · Node.js       |
-| [User API](https://github.com/adrianoleitedasilva/user-api)                           | API REST de gerenciamento de usuários com Prisma ORM | Node.js · Express · Prisma |
+| [ControleDeEstoqueAPI](https://github.com/adrianoleitedasilva/ControleDeEstoqueAPI)   | API para gerenciamento de produtos e movimentações de estoque | C# · .NET 8                |
+| [PassManagerAPI](https://github.com/adrianoleitedasilva/PassManagerAPI)               | Gerenciador de senhas com criptografia AES-256-GCM (zero-knowledge) | C# · .NET 8            |
+| [User API](https://github.com/adrianoleitedasilva/UserAPI)                           | API REST de gerenciamento de usuários com Prisma ORM | Node.js · Express · Prisma |
 
 ### Mobile
 
 | Projeto                                                                   | Descrição                                               | Stack                     |
 | ------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------- |
 | [AuthApp](https://github.com/adrianoleitedasilva/AuthApp)                 | Interface de autenticação com telas de Cadastro e Login | TypeScript · React Native |
-| [Pokédex Android](https://github.com/adrianoleitedasilva/pokedex-android) | App Android consumindo a PokeAPI com Jetpack Compose    | Kotlin                    |
+| [Pokédex Android](https://github.com/adrianoleitedasilva/PokedexAndroid) | App Android consumindo a PokeAPI com Jetpack Compose    | Kotlin                    |
+| [Jokenpo](https://github.com/adrianoleitedasilva/Jokenpo)                | Pedra, Papel e Tesoura expandido (5 opções), web e Android | Kotlin              |
+| [Migué App](https://github.com/adrianoleitedasilva/MigueApp)             | Gerador de desculpas aleatórias e criativas                | TypeScript          |
 
 ### Data Science & IA
 
@@ -58,6 +76,7 @@ Sou **Professor e Gestor em Tecnologia** com foco na interseção entre educaç�
 | [DataVisualization com Python](https://github.com/adrianoleitedasilva/DataVisualizationComPython) | Visualização de dados com gráficos interativos e dashboards       | Python · Pandas · Plotly · Seaborn |
 | [AnaliseDeDados](https://github.com/adrianoleitedasilva/AnaliseDeDados)                           | Projetos de análise de dados com Python                           | Jupyter · Pandas · NumPy           |
 | [RPA GDrive](https://github.com/adrianoleitedasilva/RPA_GDrive)                                   | Automação RPA: monitora pasta local e sincroniza com Google Drive | Python · RPA                       |
+| [YoutubeDownloader](https://github.com/adrianoleitedasilva/YoutubeDownloader)                     | Baixa vídeos do YouTube em alta resolução com faixa de áudio escolhida | Python                        |
 | [Engenharia De Prompts](https://github.com/adrianoleitedasilva/EngenhariaDePrompts)               | Guia prático de engenharia de prompts para IA                     | Markdown                           |
 
 ### Ferramentas & Extensões
@@ -68,6 +87,9 @@ Sou **Professor e Gestor em Tecnologia** com foco na interseção entre educaç�
 | [Portugol VS Code](https://github.com/adrianoleitedasilva/portugol-vscode)    | Extensão VS Code com suporte completo à linguagem Portugol | TypeScript · VS Code  |
 | [FakeDataGenerator](https://github.com/adrianoleitedasilva/FakeDataGenerator) | Gera dados falsos e realistas para popular bancos de dados | JavaScript · Faker.js |
 | [KeyBoardTester](https://github.com/adrianoleitedasilva/KeyBoardTester)       | Ferramenta web para testar todas as teclas do teclado      | HTML                  |
+| [SystemMonitor](https://github.com/adrianoleitedasilva/SystemMonitor)         | Dashboard em tempo real de recursos do sistema via WebSocket | Python · React      |
+| [ElectronParaDestop](https://github.com/adrianoleitedasilva/ElectronParaDestop) | Transforma código web em aplicações desktop com Electron   | JavaScript · Electron |
+| [MarkdownBadges](https://github.com/adrianoleitedasilva/MarkdownBadges)       | Coleção de badges prontos para enriquecer READMEs          | Markdown               |
 | [MongoDB Estudo](https://github.com/adrianoleitedasilva/MongoDB-Estudo)       | Repositório de estudos sobre MongoDB                       | MongoDB               |
 
 ---
