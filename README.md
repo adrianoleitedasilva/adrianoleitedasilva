@@ -168,3 +168,5 @@ Sou **Professor e Gestor em Tecnologia** com foco na interseção entre educaç�
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
 
+      <img src="https://github-readme-stats.vercel.app/api?username=adrianoleitedasilva&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+   
