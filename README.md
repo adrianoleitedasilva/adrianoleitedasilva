@@ -40,14 +40,19 @@ Sou **Professor e Gestor em Tecnologia** com foco na interseção entre educaç�
 | [Chronos Pomodoro](https://github.com/adrianoleitedasilva/ChronosPomodoro)        | Gerenciador de tempo com a Técnica Pomodoro                      | TypeScript                |
 | [Migué Web](https://github.com/adrianoleitedasilva/MigueWeb)                      | Gerador de desculpas aleatórias e criativas                      | TypeScript                |
 | [Spotify UI Clone](https://github.com/adrianoleitedasilva/SpotifyUIClone)         | Interface do Spotify feita com Bootstrap                         | HTML · CSS · Bootstrap    |
-| [ASTech](https://github.com/adrianoleitedasilva/ASTech)                           | Site institucional bilíngue (PT/EN) para consultoria em TI       | HTML · CSS                |
+| [ASTech](https://github.com/adrianoleitedasilva/astech)                           | Site one-page estático para a ASTECH, consultoria e treinamentos em tecnologia | HTML · CSS · JavaScript |
 | [Landing Page Dev IA](https://github.com/adrianoleitedasilva/landingpage_devIA)   | Landing page com estética de terminal sobre IA aplicada ao dev   | CSS                       |
 | [Padrão de Commits](https://github.com/adrianoleitedasilva/PadraoDeCommits)       | Landing page apresentando uma convenção de commits               | HTML                      |
 | [QR Generator](https://github.com/adrianoleitedasilva/QRGenerator)                | Geração de QR Codes local, sem servidor                          | CSS · JavaScript          |
 | [Password.Gen](https://github.com/adrianoleitedasilva/Password.Gen)               | Gerador de senhas seguras rodando no navegador                   | CSS · JavaScript          |
 | [To Do App](https://github.com/adrianoleitedasilva/ToDoApp)                       | Lista de tarefas simples                                         | HTML · CSS · JavaScript   |
 | [Jogo da Velha](https://github.com/adrianoleitedasilva/JogoDaVelha)               | Jogo da Velha em JavaScript puro, sem frameworks                 | HTML · CSS · JavaScript   |
+| [Tetris](https://github.com/adrianoleitedasilva/Tetris)                           | Clone do Tetris com histórico de partidas e recordes locais      | HTML · CSS · JavaScript   |
 | [Forca](https://github.com/adrianoleitedasilva/Forca)                             | Jogo da Forca com histórico de partidas                          | JavaScript                |
+| [WhatsApp Clone UI](https://github.com/adrianoleitedasilva/WhatsApp_Clone_UI)     | Clone da interface do WhatsApp Web, com dados simulados          | HTML · CSS · JavaScript   |
+| [Fluxus Web](https://github.com/adrianoleitedasilva/fluxus-web)                   | Controle financeiro pessoal, consumindo a ControleFinanceiroAPI  | TypeScript                |
+| [ShortURL (React/Node/Postgres)](https://github.com/adrianoleitedasilva/ShortURL_React-Node-Postgres) | Encurtador de URLs full-stack: React, Node/Express e PostgreSQL | TypeScript · React · Node.js · PostgreSQL |
+| [ShortURL (PHP/XAMPP)](https://github.com/adrianoleitedasilva/ShortURL)           | Encurtador de URLs local rodando sobre XAMPP, com contagem de cliques | PHP · MySQL           |
 | [20 Projetos JS Vanilla](https://github.com/adrianoleitedasilva/20ProjectsJSVanilla) | Coleção de 20 projetos em JavaScript puro                     | JavaScript                |
 
 ### Backend & APIs
@@ -77,6 +82,7 @@ Sou **Professor e Gestor em Tecnologia** com foco na interseção entre educaç�
 | [AnaliseDeDados](https://github.com/adrianoleitedasilva/AnaliseDeDados)                           | Projetos de análise de dados com Python                           | Jupyter · Pandas · NumPy           |
 | [RPA GDrive](https://github.com/adrianoleitedasilva/RPA_GDrive)                                   | Automação RPA: monitora pasta local e sincroniza com Google Drive | Python · RPA                       |
 | [YoutubeDownloader](https://github.com/adrianoleitedasilva/YoutubeDownloader)                     | Baixa vídeos do YouTube em alta resolução com faixa de áudio escolhida | Python                        |
+| [Transcritor](https://github.com/adrianoleitedasilva/Transcritor)                                 | Transcreve áudios para texto em pt-BR com Whisper rodando localmente | Python                          |
 | [Engenharia De Prompts](https://github.com/adrianoleitedasilva/EngenhariaDePrompts)               | Guia prático de engenharia de prompts para IA                     | Markdown                           |
 
 ### Ferramentas & Extensões
@@ -91,6 +97,23 @@ Sou **Professor e Gestor em Tecnologia** com foco na interseção entre educaç�
 | [ElectronParaDestop](https://github.com/adrianoleitedasilva/ElectronParaDestop) | Transforma código web em aplicações desktop com Electron   | JavaScript · Electron |
 | [MarkdownBadges](https://github.com/adrianoleitedasilva/MarkdownBadges)       | Coleção de badges prontos para enriquecer READMEs          | Markdown               |
 | [MongoDB Estudo](https://github.com/adrianoleitedasilva/MongoDB-Estudo)       | Repositório de estudos sobre MongoDB                       | MongoDB               |
+| [CalculaDev](https://github.com/adrianoleitedasilva/CalculaDev)               | Calculadora desktop para Windows com ferramentas de conversão do dia a dia dev | JavaScript · Electron |
+| [Script OtimizaPC](https://github.com/adrianoleitedasilva/Script-OtimizaPC)   | Scripts em Batch que automatizam tarefas do Windows via menus interativos | Batchfile   |
+| [npmDevelopment](https://github.com/adrianoleitedasilva/npmDevelopment)       | Anotações e experimentos sobre criação e publicação de pacotes NPM | JavaScript      |
+| [VSCode2026](https://github.com/adrianoleitedasilva/VSCode2026)               | Guia detalhado das configurações do settings.json do VS Code | Markdown              |
+| [Template Readme V26](https://github.com/adrianoleitedasilva/TemplateReadmeV26) | Meu template pessoal de README.md                         | Markdown               |
+
+### Cursos & Estudos
+
+| Projeto                                                                          | Descrição                                                          | Stack             |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------ |
+| [Python](https://github.com/adrianoleitedasilva/Python)                           | Material do curso de Python para os meus alunos                     | Jupyter Notebook   |
+| [PythonBasic](https://github.com/adrianoleitedasilva/PythonBasic)                 | Coletânea de projetos básicos para alunos em Python                 | Python             |
+| [JavaScript Para Iniciantes](https://github.com/adrianoleitedasilva/JavaScriptParaIniciantes) | Conceitos essenciais de JS com exemplos e exercícios práticos | JavaScript         |
+| [SOLID](https://github.com/adrianoleitedasilva/SOLID)                             | Aplicação dos 5 princípios SOLID no desenvolvimento com PHP         | PHP                |
+| [Docker Atualização](https://github.com/adrianoleitedasilva/Docker-Atualizacao)   | Curso de atualização de conhecimentos em Docker                     | Docker             |
+| [Obsidian Plugin Dev](https://github.com/adrianoleitedasilva/obisidian-plugin-dev) | Experimentos de desenvolvimento de plugins para o Obsidian         | JavaScript         |
+| [CSS Flexbox](https://github.com/adrianoleitedasilva/CSSFlexbox)                  | Material de estudo sobre CSS Flexbox                                | HTML · CSS         |
 
 ---
 
@@ -135,6 +158,7 @@ Sou **Professor e Gestor em Tecnologia** com foco na interseção entre educaç�
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Data Science & IA
 
@@ -167,6 +191,3 @@ Sou **Professor e Gestor em Tecnologia** com foco na interseção entre educaç�
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
-
-      <img src="https://github-readme-stats.vercel.app/api?username=adrianoleitedasilva&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
-   
